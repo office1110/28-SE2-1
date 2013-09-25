@@ -1,0 +1,14 @@
+E:\VSProjects\SoftwareDesignII\Backup\SoftwareDesignII\bin\SoftwareDesignII.dll
+E:\VSProjects\SoftwareDesignII\Backup\SoftwareDesignII\bin\SoftwareDesignII.pdb
+E:\VSProjects\SoftwareDesignII\Backup\SoftwareDesignII\obj\Debug\SoftwareDesignII.dll
+E:\VSProjects\SoftwareDesignII\Backup\SoftwareDesignII\obj\Debug\SoftwareDesignII.pdb
+E:\VSProjects\SDII(Backup)\SoftwareDesignII\bin\SoftwareDesignII.dll
+E:\VSProjects\SDII(Backup)\SoftwareDesignII\bin\SoftwareDesignII.pdb
+E:\VSProjects\SDII(Backup)\SoftwareDesignII\obj\Debug\ResolveAssemblyReference.cache
+E:\VSProjects\SDII(Backup)\SoftwareDesignII\obj\Debug\SoftwareDesignII.dll
+E:\VSProjects\SDII(Backup)\SoftwareDesignII\obj\Debug\SoftwareDesignII.pdb
+C:\Users\hu\Desktop\选择题目\在线考试及试题管理系统\程序及说明\SoftwareDesignII\bin\SoftwareDesignII.dll
+C:\Users\hu\Desktop\选择题目\在线考试及试题管理系统\程序及说明\SoftwareDesignII\bin\SoftwareDesignII.pdb
+C:\Users\hu\Desktop\选择题目\在线考试及试题管理系统\程序及说明\SoftwareDesignII\obj\Debug\SoftwareDesignII.csprojResolveAssemblyReference.cache
+C:\Users\hu\Desktop\选择题目\在线考试及试题管理系统\程序及说明\SoftwareDesignII\obj\Debug\SoftwareDesignII.dll
+C:\Users\hu\Desktop\选择题目\在线考试及试题管理系统\程序及说明\SoftwareDesignII\obj\Debug\SoftwareDesignII.pdb

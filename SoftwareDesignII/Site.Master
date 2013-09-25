@@ -21,15 +21,21 @@
                 <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
                     <AnonymousTemplate>
                         [ <a href="~/Account/Login.aspx" ID="HeadLoginStatus" runat="server">Log In</a> ]
+                        <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Home"/>
+                  
+                    </Items>
+                </asp:Menu>
+            </div>
                     </AnonymousTemplate>
                     <LoggedInTemplate>
                         Welcome <span class="bold"><asp:LoginName ID="HeadLoginName" runat="server" /></span>!
                         [ <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Log Out" LogoutPageUrl="~/"/> ]
                         [ <asp:LinkButton ID="LabelChangePW" runat="server" PostBackUrl="~/Account/ChangePassword.aspx" Text="Change Password"></asp:LinkButton> ]
-                    </LoggedInTemplate>
-                </asp:LoginView>
-            </div>
-            <div class="clear hideSkiplink">
+
+                        <div class="clear hideSkiplink">
                 <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
                     <Items>
                         <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Home"/>
@@ -39,6 +45,10 @@
                     </Items>
                 </asp:Menu>
             </div>
+                    </LoggedInTemplate>
+                </asp:LoginView>
+            </div>
+            
         </div>
         <div class="main">
             <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
